@@ -1,0 +1,15 @@
+### file ###
+*.class
+*.classpath
+*.project
+*.war
+*.jar
+*.iml
+WEB-INF/classes/*
+
+### dir ###
+.idea
+.settings
+.vscode
+target
+out
